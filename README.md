@@ -14,9 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](link)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- 📫 How to reach me **aakshnaykude123@gmail.com**
 
 ## 🚀 Languages and Tools:
 
