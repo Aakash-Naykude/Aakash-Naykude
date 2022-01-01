@@ -52,7 +52,6 @@
 <a href="https://github.com/Aakash-Naykude/github-readme-activity-graph"><img alt="Aakash Naykude's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aakash-Naykude&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
 
 ## Connect with me:
 
