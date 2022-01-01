@@ -65,7 +65,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Aakash-Naykude/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Aakash-Naykude">
 </a>
 <a href="https://github.com/Aakash-Naykude?tab=followers"><img src="https://img.shields.io/github/followers/Aakash-Naykude?label=Followers&style=social" alt="GitHub Badge"></a>
