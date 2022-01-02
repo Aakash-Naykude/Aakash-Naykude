@@ -16,7 +16,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -42,8 +42,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Aakash-Naykude/github-readme-stats"><img alt="Aakash Naykude's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aakash-Naykude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Aakash-Naykude/github-readme-stats"><img alt="Aakash Naykude's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Naykude&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Aakash-Naykude/github-readme-stats"><img alt="Aakash Naykude's Github Stats" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=Aakash-Naykude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Aakash-Naykude/github-readme-stats"><img alt="Aakash Naykude's Top Languages" style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Naykude&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
