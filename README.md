@@ -52,7 +52,6 @@
 <a href="https://github.com/Aakash-Naykude/github-readme-activity-graph"><img alt="Aakash Naykude's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aakash-Naykude&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
 
 ## Connect with me:
 
@@ -66,7 +65,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Aakash-Naykude/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Aakash-Naykude">
 </a>
 <a href="https://github.com/Aakash-Naykude?tab=followers"><img src="https://img.shields.io/github/followers/Aakash-Naykude?label=Followers&style=social" alt="GitHub Badge"></a>
