@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](link)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://aakash-naykude-portfolio.vercel.app/)**
 
 - 📫 How to reach me **aakshnaykude123@gmail.com**
 
