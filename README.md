@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **aakshnaykude123@gmail.com**
 
+- 🌱 I am also interested in playing football and chess.
+
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
