@@ -1,4 +1,4 @@
-<a href="#"><img width="70%" marginleft="15%" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a>
+<a href="#"><img style="margin-left:20%" width="60%" marginleft="15%" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Aakash Naykude</h1>
 <h2 align="center">I'm a Full Stack Developer.</h2>
