@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img style="margin-left:25%" width="50%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
+<p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Aakash Naykude</h1>
 <h2 align="center">I'm a Full Stack Developer.</h2>
