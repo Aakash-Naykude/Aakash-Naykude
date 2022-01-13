@@ -58,7 +58,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aakash-Naykude)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<br/>
 
 ## Connect with me:
 
