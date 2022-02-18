@@ -61,7 +61,7 @@
 
 <br/>
 
-<a href="https://github.com/Aakash-Naykude/github-readme-activity-graph"><img alt="Aakash Naykude's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aakash-Naykude&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Aakash-Naykude/github-readme-activity-graph"><img alt="Aakash Naykude's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aakash-Naykude&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aakash-Naykude)](https://github.com/ryo-ma/github-profile-trophy)
